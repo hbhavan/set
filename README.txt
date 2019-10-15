@@ -44,15 +44,15 @@ different attributes:
 		[+++ +++ +++]
 		[ +   +   + ]
 
-Each card is unique, and has 4 possibilities for its 4
+Each card is unique, and has 4 possibilities for its 3
 attributes, so there are 3^4, or 81, cards.
 
 The game is played by drawing cards, typically 12, from the 
 deck and placing them face up. Then, the player tries to find
 as many sets of 3 cards from those on the table as possible,
 removing the cards that form a set and replacing them by drawing
-from the deck. This is continued until there are no more cards in
-the deck and/or there are no sets on the current board.
+from the deck. This is continued until there are no more cards 
+in the deck and/or there are no sets on the current board.
 
 For 3 cards to be a set, they must, for each attribute, be all
 the same in that attribute or all different in that attribute.
